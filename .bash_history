@@ -62,3 +62,17 @@ git add .
 git status
 git commit -m "modified tex1 file"
 git push origin master
+ls
+git push -u origin master
+ls
+vi text3.txt
+git statuts
+git status
+git add .
+git status
+git restore --staged text3.txt
+git status
+git log
+git revert fe79d8a6a10dd8f881cbb15cd12a9c69002b8d95
+git add .
+git revert fe79d8a6a10dd8f881cbb15cd12a9c69002b8d95
