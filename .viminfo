@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1770438987,,"wq"
+|2,0,1770477665,,"wq"
 :WQ
 |2,0,1770437152,,"WQ"
 
@@ -27,28 +27,44 @@
 # Registers:
 
 # File marks:
-'0  2  15  ~/text1
-|4,48,2,15,1770438987,"~/text1"
-'1  1  49  ~/text2
-|4,49,1,49,1770437198,"~/text2"
-'2  1  40  ~/text1
-|4,50,1,40,1770437162,"~/text1"
+'0  1  18  ~/text3.txt
+|4,48,1,18,1770477665,"~/text3.txt"
+'1  2  15  ~/text1
+|4,49,2,15,1770438987,"~/text1"
+'2  1  49  ~/text2
+|4,50,1,49,1770437198,"~/text2"
 '3  1  40  ~/text1
 |4,51,1,40,1770437162,"~/text1"
-'4  1  66  ~/direc/text2.txt
-|4,52,1,66,1770261792,"~/direc/text2.txt"
-'5  1  19  ~/direc/text.txt
-|4,53,1,19,1770261761,"~/direc/text.txt"
+'4  1  40  ~/text1
+|4,52,1,40,1770437162,"~/text1"
+'5  1  66  ~/direc/text2.txt
+|4,53,1,66,1770261792,"~/direc/text2.txt"
+'6  1  19  ~/direc/text.txt
+|4,54,1,19,1770261761,"~/direc/text.txt"
 
 # Jumplist (newest first):
+-'  1  18  ~/text3.txt
+|4,39,1,18,1770477665,"~/text3.txt"
 -'  2  15  ~/text1
 |4,39,2,15,1770438987,"~/text1"
+-'  2  15  ~/text1
+|4,39,2,15,1770438987,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770438972,"~/text1"
 -'  1  40  ~/text1
 |4,39,1,40,1770438972,"~/text1"
 -'  1  49  ~/text2
 |4,39,1,49,1770437198,"~/text2"
 -'  1  49  ~/text2
 |4,39,1,49,1770437198,"~/text2"
+-'  1  49  ~/text2
+|4,39,1,49,1770437198,"~/text2"
+-'  1  49  ~/text2
+|4,39,1,49,1770437198,"~/text2"
+-'  1  40  ~/text1
+|4,39,1,40,1770437162,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770437162,"~/text1"
 -'  1  40  ~/text1
 |4,39,1,40,1770437162,"~/text1"
 -'  1  40  ~/text1
@@ -69,6 +85,54 @@
 |4,39,1,66,1770261792,"~/direc/text2.txt"
 -'  1  66  ~/direc/text2.txt
 |4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  19  ~/direc/text.txt
+|4,39,1,19,1770261761,"~/direc/text.txt"
 -'  1  19  ~/direc/text.txt
 |4,39,1,19,1770261761,"~/direc/text.txt"
 -'  1  19  ~/direc/text.txt
@@ -103,6 +167,13 @@
 |4,39,1,19,1770261761,"~/direc/text.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/text3.txt
+	*	1770477663	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
 
 > ~/text1
 	*	1770438984	0
