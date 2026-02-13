@@ -76,6 +76,7 @@ git log
 git revert fe79d8a6a10dd8f881cbb15cd12a9c69002b8d95
 git add .
 git revert fe79d8a6a10dd8f881cbb15cd12a9c69002b8d95
+<<<<<<< HEAD
 ls
 cat text1
 cat text2
@@ -116,36 +117,14 @@ git commit -m modified text as per my
 git commit -m "modified text as per my"
 git push origin master
 git log
+=======
+>>>>>>> parent of c67c5f7 (modified text as per my)
+git revert c67c5f733cf2fd492cf8396aee66400428b007f6
+pwd
 ls
-vi text3.txt 
-git status
+git revert c67c5f733cf2fd492cf8396aee66400428b007f6
 git add .
+git commit -m "WIP: saving current changes"
+git revert c67c5f733cf2fd492cf8396aee66400428b007f6
 git status
-git restore --staged text3.txt
-git status
-ls
-cat text3.txt 
-ls
-vi text2
-cat text2 
-git status
-git add .
-git status
-git commit -m "simply trying"
-git push origin master 
-git log
-vi text3.txt 
-cat text3
-ls
-cat text3.txt 
-git log
-git status
-git add .
-git status
-git restore --staged text3.txt
-git status
-git log
-git revert 1425c015c3de908b713a9cba745c056a62de8589
-git add .
-git commit -m "WIP: Saving Changes before revert"
-git revert 1425c015c3de908b713a9cba745c056a62de8589
+git revert c67c5f733cf2fd492cf8396aee66400428b007f6
