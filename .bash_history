@@ -105,3 +105,14 @@ git status
 git push -u origin master
 git --version
 clear
+ls
+git status
+vi text2
+git status
+git add .
+git status
+git commit -m
+git commit -m modified text as per my 
+git commit -m "modified text as per my"
+git push origin master
+git log
