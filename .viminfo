@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1770814824,,"wq"
+|2,0,1770957995,,"wq"
 :WQ
 |2,0,1770437152,,"WQ"
 
@@ -27,30 +27,44 @@
 # Registers:
 
 # File marks:
-'0  1  31  ~/learningdevops/text.
-|4,48,1,31,1770814824,"~/learningdevops/text."
-'1  1  18  ~/text3.txt
-|4,49,1,18,1770477665,"~/text3.txt"
-'2  2  15  ~/text1
-|4,50,2,15,1770438987,"~/text1"
-'3  1  49  ~/text2
-|4,51,1,49,1770437198,"~/text2"
-'4  1  40  ~/text1
-|4,52,1,40,1770437162,"~/text1"
-'5  1  40  ~/text1
-|4,53,1,40,1770437162,"~/text1"
-'6  1  66  ~/direc/text2.txt
-|4,54,1,66,1770261792,"~/direc/text2.txt"
-'7  1  19  ~/direc/text.txt
-|4,55,1,19,1770261761,"~/direc/text.txt"
+'0  3  0  ~/text2
+|4,48,3,0,1770957995,"~/text2"
+'1  1  31  ~/learningdevops/text.
+|4,49,1,31,1770814824,"~/learningdevops/text."
+'2  1  18  ~/text3.txt
+|4,50,1,18,1770477665,"~/text3.txt"
+'3  2  15  ~/text1
+|4,51,2,15,1770438987,"~/text1"
+'4  1  49  ~/text2
+|4,52,1,49,1770437198,"~/text2"
+'5  1  49  ~/text2
+|4,53,1,49,1770437198,"~/text2"
+'6  1  40  ~/text1
+|4,54,1,40,1770437162,"~/text1"
+'7  1  40  ~/text1
+|4,55,1,40,1770437162,"~/text1"
+'8  1  66  ~/direc/text2.txt
+|4,56,1,66,1770261792,"~/direc/text2.txt"
+'9  1  19  ~/direc/text.txt
+|4,57,1,19,1770261761,"~/direc/text.txt"
 
 # Jumplist (newest first):
+-'  3  0  ~/text2
+|4,39,3,0,1770957995,"~/text2"
+-'  1  49  ~/text2
+|4,39,1,49,1770957979,"~/text2"
+-'  1  31  ~/learningdevops/text.
+|4,39,1,31,1770814824,"~/learningdevops/text."
 -'  1  31  ~/learningdevops/text.
 |4,39,1,31,1770814824,"~/learningdevops/text."
 -'  1  18  ~/text3.txt
 |4,39,1,18,1770477665,"~/text3.txt"
 -'  1  18  ~/text3.txt
 |4,39,1,18,1770477665,"~/text3.txt"
+-'  1  18  ~/text3.txt
+|4,39,1,18,1770477665,"~/text3.txt"
+-'  1  18  ~/text3.txt
+|4,39,1,18,1770477665,"~/text3.txt"
 -'  2  15  ~/text1
 |4,39,2,15,1770438987,"~/text1"
 -'  2  15  ~/text1
@@ -59,6 +73,22 @@
 |4,39,2,15,1770438987,"~/text1"
 -'  2  15  ~/text1
 |4,39,2,15,1770438987,"~/text1"
+-'  2  15  ~/text1
+|4,39,2,15,1770438987,"~/text1"
+-'  2  15  ~/text1
+|4,39,2,15,1770438987,"~/text1"
+-'  2  15  ~/text1
+|4,39,2,15,1770438987,"~/text1"
+-'  2  15  ~/text1
+|4,39,2,15,1770438987,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770438972,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770438972,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770438972,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770438972,"~/text1"
 -'  1  40  ~/text1
 |4,39,1,40,1770438972,"~/text1"
 -'  1  40  ~/text1
@@ -99,6 +129,22 @@
 |4,39,1,40,1770437162,"~/text1"
 -'  1  40  ~/text1
 |4,39,1,40,1770437162,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770437162,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770437162,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770437162,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770437162,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770437162,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770437162,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770437162,"~/text1"
+-'  1  40  ~/text1
+|4,39,1,40,1770437162,"~/text1"
 -'  1  66  ~/direc/text2.txt
 |4,39,1,66,1770261792,"~/direc/text2.txt"
 -'  1  66  ~/direc/text2.txt
@@ -163,90 +209,56 @@
 |4,39,1,66,1770261792,"~/direc/text2.txt"
 -'  1  66  ~/direc/text2.txt
 |4,39,1,66,1770261792,"~/direc/text2.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
--'  1  19  ~/direc/text.txt
-|4,39,1,19,1770261761,"~/direc/text.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
+-'  1  66  ~/direc/text2.txt
+|4,39,1,66,1770261792,"~/direc/text2.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/text2
+	*	1770957993	0
+	"	3	0
+	^	3	0
+	.	2	13
+	+	1	50
+	+	2	13
 
 > ~/learningdevops/text.
 	*	1770814822	0
@@ -269,13 +281,6 @@
 	.	2	15
 	+	1	40
 	+	2	15
-
-> ~/text2
-	*	1770437196	0
-	"	1	49
-	^	1	50
-	.	1	49
-	+	1	49
 
 > ~/direc/text2.txt
 	*	1770261788	0

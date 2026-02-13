@@ -76,3 +76,32 @@ git log
 git revert fe79d8a6a10dd8f881cbb15cd12a9c69002b8d95
 git add .
 git revert fe79d8a6a10dd8f881cbb15cd12a9c69002b8d95
+ls
+cat text1
+cat text2
+cat text3.txt 
+git init
+git remore -v
+git remote -v
+git init
+git status
+pwd
+ls
+cd learningdevops/
+ls
+vi text.
+cd ..
+git status
+git remote -v
+git status
+git commit -m "added txt filess"
+git status
+git add learningdevops/
+git add .
+git commit -m "meaningful message"
+git push origin master
+git statuts
+git status
+git push -u origin master
+git --version
+clear
